@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">  
-  <img height="180em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api?username=xinyue296&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true" />
+  <img height="180em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true" />
   <img height="180em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
 </p>
