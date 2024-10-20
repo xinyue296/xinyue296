@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">  
-  <img height="180em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true" />
-  <img height="180em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
-</p>
+- 👩🏻‍💻 I'm Cindy!
+- 🌱 Currently learning: Web development, cloud hosting, and building things that make life simpler.
+- 📫 How to reach me: cindytao[dot]xy[at]outlook[dot]com
+- 😄 Pronouns: she/her
+- 🐱 Fun fact: I’m a cat person who loves photography and minimalist design.
 
+<!--Github Status: start-->
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=react&show_icons=true&count_private=true&include_orgs=true&hide=contribs,issues" />
+    &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=react&count_private=true&include_orgs=true&layout=compact" />
+</div>
+<!-- Github Status: end-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2049%20mins-blue)
