@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👩🏻‍💻 I'm Cindy!
-- 🌱 Currently learning: Web development, cloud hosting, and building things that make life simpler.
+- 🌱 Currently learning: Web development, cloud hosting, computer graphics,computer system and building things that make life simpler.
 - 📫 How to reach me: cindytao[dot]xy[at]outlook[dot]com
 - 😄 Pronouns: she/her
 - 🐱 Fun fact: Cat person here! Love music, trying out new food, wandering around the city, and capturing life through photography!
