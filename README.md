@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!--Github Status: start-->
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=react&show_icons=true&count_private=true&include_orgs=true&hide=contribs,issues" />
+  <img height="160em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=react&show_icons=true&count_private=true&include_orgs=true&hide=contribs,issues" />
     &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=react&count_private=true&include_orgs=true&layout=compact" />
+  <img height="160em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=react&count_private=true&include_orgs=true&layout=compact" />
 </div>
 <!-- Github Status: end-->
 
