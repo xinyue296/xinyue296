@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning: Web development, cloud hosting, and building things that make life simpler.
 - 📫 How to reach me: cindytao[dot]xy[at]outlook[dot]com
 - 😄 Pronouns: she/her
-- 🐱 Fun fact: I’m a cat person who loves photography and minimalist design.
+- 🐱 Fun fact: Cat person here! Love music, trying out new food, wandering around the city, and capturing life through photography!
 
 <!--Github Status: start-->
 <div align="left">
