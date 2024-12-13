@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Github Status: end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,5 +70,5 @@ Mac                      4 mins              ███████████�
 ```
 
 
- Last Updated on 12/12/2024 14:44:46 UTC
+ Last Updated on 13/12/2024 14:44:07 UTC
 <!--END_SECTION:waka-->
