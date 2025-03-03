@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Github Status: end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2056%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,15 +58,15 @@ Sunday                   210 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-C                        55 mins             █████████████████████████   100.00 % 
+C                        4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2025 14:39:59 UTC
+ Last Updated on 03/03/2025 14:43:45 UTC
 <!--END_SECTION:waka-->
