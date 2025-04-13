@@ -58,16 +58,15 @@ Sunday                   220 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-C                        1 hr 47 mins        █████████████████████████   99.00 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/04/2025 14:40:49 UTC
+ Last Updated on 13/04/2025 14:41:07 UTC
 <!--END_SECTION:waka-->
