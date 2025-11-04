@@ -29,6 +29,44 @@ Here are some ideas to get you started:
 <!-- Github Status: end-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2036%20mins-blue)
 
- Last Updated on 03/11/2025 14:47:46 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                850 commits         ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌆 Daytime                1387 commits        ████████████░░░░░░░░░░░░░   49.24 % 
+🌃 Evening                488 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   596 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Tuesday                  423 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Wednesday                288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Thursday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Friday                   754 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Saturday                 166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Sunday                   222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/11/2025 14:48:56 UTC
 <!--END_SECTION:waka-->
