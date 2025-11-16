@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <!-- Github Status: end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2036%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -68,5 +66,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/11/2025 14:42:30 UTC
+ Last Updated on 16/11/2025 14:41:59 UTC
 <!--END_SECTION:waka-->
