@@ -1,78 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Cindy 👋
 
-<!--
-**xinyue296/xinyue296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS and Statistics student at the University of Toronto (graduating May 2027) and a software engineer who likes systems that hold up at scale. I just finished a 16-month co-op building backend and distributed systems for a regulated fintech, and now I'm digging deeper into performance, systems, and ML.
 
-Here are some ideas to get you started:
+#### 💼 Recent experience
+- **Software Engineer (Co-op) @ [Tetra Digital Group](https://tetradg.com)** · May 2025 – Aug. 2026<br>
+  Event-driven backend services on AWS for digital-asset custody. I scaled a CSV export pipeline with keyset pagination and resumable parallel partitions, built an append-only audit log service in Go on NATS JetStream, and debugged data-consistency issues down to root cause.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 👩🏻‍💻 I'm Cindy!
-- 🌱 Currently learning: Web development, cloud hosting, computer graphics, computer system and building things that make life simpler.
-- 📫 How to reach me: cindytao[dot]xy[at]outlook[dot]com
+#### 🔭 Currently working on
+- **AI Marketing Agent**, a multi-tenant agentic RAG platform (LangGraph, ChromaDB). I lead product and evaluation design and I'm building a harness that scores retrieval relevance and checks that RBAC never leaks documents across tenants.
+- **ChartProof**, my capstone, an independent accuracy auditor for AI medical scribes. We're scoping the evaluation and ML pipeline now.
+- **ECE454** labs in computer systems programming, cache-aware optimization, and concurrency.
+
+#### 🌱 Currently learning
+Systems performance and debugging, machine learning (building on the statistics half of my degree), and AI/ML infrastructure.
+
+#### 🛠️ Tech I work with
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+#### 🧩 Things I've built
+| Project | What it is | Stack |
+|---|---|---|
+| [WasedaTime](https://wasedatime.com) | Open-source campus web app for Waseda University students. I was a web developer and PM, redesigning UI in Figma and shipping it in React. | TypeScript, React, Tailwind |
+| [cindytaoxy.com](https://cindytaoxy.com) | My personal site, with projects, writing, and my CV. | Next.js, MDX, Tailwind, AWS Amplify |
+| [UHelper](https://github.com/christianjokhaji/UHelper) | Discord bot built as a four-person UofT course project. I built the recipe suggestion feature and deployed the bot on EC2 with automated releases. | Java, AWS EC2, PM2 |
+| Dr. Mario | Playable falling-block puzzle game written entirely in MIPS assembly, with a bitmap display and frame-based game loop. *(course project, code private)* | MIPS assembly |
+
+#### 📫 Find me
+[cindytaoxy.com](https://cindytaoxy.com) · [LinkedIn](https://www.linkedin.com/in/cindytao-xy) · cindytao[dot]xy[at]outlook[dot]com
+
 - 😄 Pronouns: she/her
-- 🐱 Fun fact: Cat person here! Love music, trying out new food, wandering around the city, and capturing life through photography!
-
-<!--Github Status: start-->
-<div align="left">
-  <img height="160em" src="https://github-readme-stats-topaz-two-25.vercel.app/api?username=xinyue296&theme=react&show_icons=true&count_private=true&include_orgs=true&hide=contribs,issues" />
-    &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats-cindy-taos-projects.vercel.app/api/top-langs/?username=xinyue296&theme=react&count_private=true&include_orgs=true&layout=compact" />
-</div>
-<!-- Github Status: end-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2032%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-🌆 Daytime                430 commits         ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌃 Evening                490 commits         ███████████░░░░░░░░░░░░░░   44.59 % 
-🌙 Night                  92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Tuesday                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Thursday                 108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Friday                   224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Saturday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Sunday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 11/10/2026 19:08:31 UTC
-<!--END_SECTION:waka-->
+- 🐱 Fun fact: cat person! I paddle with a Toronto dragon boat team, sing with the Hart House Singers, and love trying new food, wandering the city, and taking photos.
