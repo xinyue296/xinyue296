@@ -35,8 +35,7 @@ ML systems and performance, on-device and hardware-aware ML, and voice and music
 |---|---|---|
 | [cindytaoxy.com](https://cindytaoxy.com) | My personal site, with projects, writing, and my CV. | Next.js, MDX, Tailwind, AWS Amplify |
 | [UHelper](https://github.com/christianjokhaji/UHelper) | Discord bot built as a UofT team course project. I built the recipe suggestion feature and deployed the bot on AWS EC2. | Java, AWS EC2, PM2 |
-| Cache sensitivity study | Swept L1 and L2 cache size and associativity in gem5 on benchmark workloads, and traced why pointer-chasing code is far more cache-sensitive than array sorting. *(course project, code private)* | gem5 |
-| Dr. Mario | Playable falling-block puzzle game written entirely in MIPS assembly, with a bitmap display and frame-based game loop. *(course project, code private)* | MIPS assembly |
+| [Dr. Mario](https://www.cindytaoxy.com/projects/DrMario) | Playable falling-block puzzle game written entirely in MIPS assembly, with a bitmap display and frame-based game loop. *(course project, code private, write-up on my site)* | MIPS assembly |
 
 #### 📫 Find me
 [cindytaoxy.com](https://cindytaoxy.com) · [LinkedIn](https://www.linkedin.com/in/cindytao-xy) · cindytao[dot]xy[at]outlook[dot]com
